@@ -1,0 +1,15 @@
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\attach_server.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\visualstudio_py_debugger.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\visualstudio_py_repl.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\visualstudio_py_util.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\__init__.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\__main__.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\bin\AzureSetup.cfg
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\bin\wfastcgi.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\ptvs_virtualenv_proxy.py
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\web.config
+C:\Users\ambrishm\Documents\Visual Studio 2015\Projects\PythonFlaskApp\PythonFlaskApp\obj\Debug\web.debug.config

@@ -1,0 +1,13 @@
+urlparse
+_InternalRequest
+basestring
+errors
+_IsReadableStream
+json
+SynchronizedRequest
+http_constants
+_RequestBodyFromData
+documents
+retry_utility
+urllib
+https_connection
